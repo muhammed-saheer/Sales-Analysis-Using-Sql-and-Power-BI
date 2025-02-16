@@ -28,27 +28,6 @@ This project focuses on improving sales reporting by transitioning from static r
    - **Product Overview**
    - **Customer Overview**
 
-## 📂 Project Structure
-Sales-Analysis-PowerBI/
-├── Database_Backup/
-│   ├── AdventureWorksDW2019_DatesUpdated.bak
-├── SQL_Scripts/
-│   ├── DIM_Product.sql
-│   ├── DIM_Calendar.sql
-│   ├── DIM_Customer.sql
-│   ├── FACT_InternetSales.sql
-├── Cleaned_Data_CSVs/
-│   ├── DIM_Product.csv
-│   ├── DIM_Calendar.csv
-│   ├── DIM_Customer.csv
-│   ├── FACT_InternetSales.csv
-├── PowerBI_Dashboard/
-│   ├── Sales_Report_Dashboard.pbix
-│   ├── Screenshots/
-│   │   ├── Sales_Overview.png
-│   │   ├── Product_Overview.png
-│   │   ├── Customer_Overview.png
-├── README.md
 
 ## 📂 Database Download  
 To restore the database, download the backup file from Google Drive:  
